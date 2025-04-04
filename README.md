@@ -6,7 +6,7 @@
 出版社のページ: https://www.kspub.co.jp/book/detail/5386477.html
 
 <div align="center">
-<img src="https://www.kspub.co.jp/book/detail/images/91127110883aad99140363ed4f6edc8b54de267d.jpg" width="150px">
+<img src="https://github.com/junohkubo/linear_algebra_half_book/blob/main/figs/jacket_rgb.jpg" width="200px">
 </div>
 
 
