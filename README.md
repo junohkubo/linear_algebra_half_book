@@ -5,6 +5,11 @@
 
 出版社のページ: https://www.kspub.co.jp/book/detail/5386477.html
 
+<div align="center">
+<img src="https://www.kspub.co.jp/book/detail/images/91127110883aad99140363ed4f6edc8b54de267d.jpg" width="150px">
+</div>
+
+
 （更新: 2024.4.4 誤植情報掲載）
 
 ***
