@@ -26,7 +26,7 @@ https://x.com/arthappymuseum/status/1907720554976784574?s=53
    <img src="https://github.com/junohkubo/linear_algebra_half_book/blob/main/figs/fig_17_3_svd_result_modified.png" width="500px">
    </div>
   
-   - p.149: 式(17.5)の2行下の「三つの特異値だけ残りました」を削除（再計算した結果、ゼロとなる特異値がなく、すべて（四つ）残りました）。
+   - p.149: 式(17.5)の2行下の「三つの特異値だけ残りました．」を削除（再計算した結果、ゼロとなる特異値がなく、すべて（四つ）残りました）。
  
 - (2025.4.4) p.244: 1行目「データの数をNをしたとき」&rarr;「データの数をNとしたとき」 
 
