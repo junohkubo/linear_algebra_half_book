@@ -23,7 +23,7 @@ https://x.com/arthappymuseum/status/1907720554976784574?s=53
 説明の本質に修正はありませんが、これにともない、以下の変更が必要です。
    - p.148: 図17.3を以下に差し替え。
    <div align="center">
-   <img src="https://github.com/junohkubo/linear_algebra_half_book/blob/main/fig_17_3_svd_result_modified.png" width="500px">
+   <img src="https://github.com/junohkubo/linear_algebra_half_book/blob/main/figs/fig_17_3_svd_result_modified.png" width="500px">
    </div>
   
    - p.149: 式(17.5)の2行下の「三つの特異値だけ残りました」を削除（再計算した結果、ゼロとなる特異値がなく、すべて（四つ）残りました）。
